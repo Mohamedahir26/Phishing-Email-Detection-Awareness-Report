@@ -1,5 +1,4 @@
 # Phishing Email Detection & Awareness Report
-**Task 2: Cyber Security Internship**
 
 ## 1. Project Overview
 This project involves a detailed analysis of a phishing email campaign impersonating Netflix. The goal is to identify malicious indicators, classify the threat, and provide professional remediation strategies.
